@@ -1,0 +1,6 @@
+/data/*
+.github/
+*.jpg
+/datasets/*
+/runs/detect/train/*
+/runs/*

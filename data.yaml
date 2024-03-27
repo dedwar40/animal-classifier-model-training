@@ -1,0 +1,7 @@
+train: ../train/images  # train images (relative to 'path')
+val: ../val/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: rock-wallaby
+  1: rat
